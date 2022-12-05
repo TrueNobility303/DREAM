@@ -6,8 +6,8 @@ To reproduce the experiments, run
 
 ```
 mpiexec -n 8 python Exp_a9a.py
-mpiexec -n 8 python Exp_a9a.py
-mpiexec -n 8 python Exp_a9a.py
+mpiexec -n 8 python Exp_w8a.py
+mpiexec -n 8 python Exp_fourclass.py
 ```
 
 The datasets used in our experiments are available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/
