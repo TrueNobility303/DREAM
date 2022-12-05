@@ -4,7 +4,6 @@ import numpy as np
 from mpi4py import MPI
 from utils.problem import *
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
 
 # code for DMO (Decentralized Minimax OPtimizer): a simple and effient framework for decentralized minimax optimization
 
