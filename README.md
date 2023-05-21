@@ -2,7 +2,7 @@
 
 The code is based on MPI whose installation can be done followed by this guide at https://ireneli.eu/2016/02/15/installation/.
 
-To reproduce the experiments, run
+Run the code with
 
 ```
 mpiexec -n 8 python demo.py
