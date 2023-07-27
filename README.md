@@ -10,4 +10,4 @@ Run the code with
 mpiexec -n 8 python demo.py
 ```
 
-The datasets used in our experiments are available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+The datasets used in our experiments are available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/.
